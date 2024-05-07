@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nQGQe4QbF7MI2sfW/RcOZUEDqGHI0etaUceZ4/kbX+ezCwtS9AxaFvfI8mfuCHq+COoQ7EbDB3kg6EO/2aua3w==",
+  "dgSpecHash": "9Cld3kDeKgLEUnuERtVdD06xoKD3zOruPvLz2Y9c7DGGKglmcJkGpSwmRpQOcey3yI6jsfpqtH/xq8TZlvL82A==",
   "success": true,
-  "projectFilePath": "D:\\MyWeb\\ReStoreApi\\ReStore\\ReStore\\ReStore.csproj",
+  "projectFilePath": "D:\\MyWeb\\ReStoreServer\\ReStore\\ReStore\\ReStore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrator\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.data.sqlite.core\\6.0.29\\microsoft.data.sqlite.core.6.0.29.nupkg.sha512",

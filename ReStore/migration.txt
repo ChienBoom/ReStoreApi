@@ -1,0 +1,5 @@
+dotnet ef migrations add BasketEntityAdd
+
+dotnet ef update 
+
+dotnet ef migrations remove
